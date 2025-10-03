@@ -5,10 +5,9 @@ A full-stack semantic search system for technical documents using real data from
 ## Features
 - **Semantic Search**: Uses Sentence Transformers for intelligent document matching
 - **Vector Database**: Milvus for high-performance vector storage and retrieval
-- **Real Data Sources**: OpenAlex API (research papers) + PatentsView API (patents)
+- **Real Data Sources**: OpenAlex API (research papers)
 - **FastAPI Backend**: RESTful API with `/search` endpoint
 - **Nuxt 3 Frontend**: Modern Vue.js interface with Tailwind CSS
-- **Trend Visualization**: Interactive charts showing document distribution by year
 
 ## Quick Start (Windows)
 
